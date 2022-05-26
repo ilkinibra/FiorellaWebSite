@@ -1,0 +1,48 @@
+﻿<Properties StartupConfiguration="{B8E12457-0CF7-427C-9B33-36D77EFA7C47}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="FiorellaWebSite/Controlles/HomeController.cs">
+    <Files>
+      <File FileName="FiorellaWebSite/Controlles/HomeController.cs" Line="26" Column="1" />
+      <File FileName="FiorellaWebSite/Controlles/ProductController.cs" Line="34" Column="2" />
+      <File FileName="FiorellaWebSite/DAL/AppDbContext.cs" Line="17" Column="1" />
+      <File FileName="FiorellaWebSite/Models/Slider.cs" Line="10" Column="1" />
+      <File FileName="FiorellaWebSite/Models/Category.cs" Line="12" Column="2" />
+      <File FileName="FiorellaWebSite/Models/Product.cs" Line="13" Column="2" />
+      <File FileName="FiorellaWebSite/Models/PageIntro.cs" Line="11" Column="2" />
+      <File FileName="FiorellaWebSite/Views/Home/Index.cshtml" Line="1" Column="14" />
+      <File FileName="FiorellaWebSite/Views/Product/Index.cshtml" Line="1" Column="28" />
+      <File FileName="FiorellaWebSite/Views/Shared/_Layout.cshtml" Line="400" Column="1" />
+      <File FileName="FiorellaWebSite/Views/Shared/_ProductPartial.cshtml" Line="2" Column="29" />
+      <File FileName="FiorellaWebSite/Views/_ViewImports.cshtml" Line="2" Column="16" />
+      <File FileName="FiorellaWebSite/Views/Shared/Components/products/Default.cshtml" Line="19" Column="11" />
+      <File FileName="FiorellaWebSite/Views/_ViewStart.cshtml" Line="1" Column="1" />
+      <File FileName="FiorellaWebSite/ViewModels/HomeVM.cs" Line="14" Column="6" />
+      <File FileName="FiorellaWebSite/ViewComponents/ProductsViewComponent.cs" Line="22" Column="34" />
+      <File FileName="FiorellaWebSite/Program.cs" Line="1" Column="1" />
+      <File FileName="FiorellaWebSite/Startup.cs" Line="51" Column="2" />
+      <File FileName="FiorellaWebSite/appsettings.json" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FiorellaWebSite" expanded="True">
+            <Node name="FiorellaWebSite" expanded="True">
+              <Node name="Controlles" expanded="True">
+                <Node name="HomeController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.FiorellaWebSite PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
